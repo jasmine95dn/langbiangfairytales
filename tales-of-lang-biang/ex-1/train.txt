@@ -1,0 +1,1215 @@
+Iteration #500
+Batch loss: 516.9065551757812
+Input:
+	  không biết pháp sư K’Tul moi câu thơ kia ở đâu ra và tại sao ông phải tốn một số tiền lớn như thế đ
+Targets:
+	 không biết pháp sư K’Tul moi câu thơ kia ở đâu ra và tại sao ông phải tốn một số tiền lớn như thế để
+Predictions:
+	 occcỡỡỡỡỡắỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỮỮỮỮỡỡỡỡỡỡcccccắắắắắccxxxxẹởo555555ỡỡỡooooỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡỡ
+
+Model saved in file: Ep_1/model-500
+Iteration #1000
+Batch loss: 225.10009765625
+Input:
+	 ng tương lai trò sẽ là hóa thân của thần chết, là thủ lĩnh chắc nụi của phe Hắc Ám, những lời nguyền
+Targets:
+	 g tương lai trò sẽ là hóa thân của thần chết, là thủ lĩnh chắc nụi của phe Hắc Ám, những lời nguyền 
+Predictions:
+	 g thờng tà  thônta tà tà  nhầy thi thầy thưn  tà thầytà g thưn thi thu thưntat tn  nhưng tà  thưyê  
+
+Model saved in file: Ep_1/model-1000
+Iteration #1500
+Batch loss: 199.69032287597656
+Input:
+	 ừ ba hướng, thân gậy với những đường chỉ sặc sỡ chạy quanh rung rung trên tay. Trong cảnh hiểm nghèo
+Targets:
+	  ba hướng, thân gậy với những đường chỉ sặc sỡ chạy quanh rung rung trên tay. Trong cảnh hiểm nghèo,
+Predictions:
+	  ni taợcg  thầy tiy tài thưng taợig thi tat ta thii tua g taag taag thên tho  
+hông th   taế  thhĩ  
+
+Model saved in file: Ep_1/model-1500
+Iteration #2000
+Batch loss: 181.36068725585938
+Input:
+	  đôi mắt có vẻ đã láo liên từ nãy đến giờ. 
+Kăply chưa kịp trấn tĩnh đã nghe “bực” một tiếng, đầu co
+Targets:
+	 đôi mắt có vẻ đã láo liên từ nãy đến giờ. 
+Kăply chưa kịp trấn tĩnh đã nghe “bực” một tiếng, đầu con
+Predictions:
+	 tưn tột th tà tư tàc tà n th thy tưn tiọ  
+-ăply thia tht thot th h tư thhĩ taac  tột thếng  tưu thn
+
+Model saved in file: Ep_1/model-2000
+Iteration #2500
+Batch loss: 173.67202758789062
+Input:
+	  rõ Nguyên có đồng ý với những nhận định của bạn không mà nó chẳng nói gì, chỉ lặng lẽ bước tới vài 
+Targets:
+	 rõ Nguyên có đồng ý với những nhận định của bạn không mà nó chẳng nói gì, chỉ lặng lẽ bước tới vài b
+Predictions:
+	 ca tguyên th cóig c cài thưng chưn cưnh cha tan thông cộyth chung cgi ci  chi càc  tà nàớc nhi tà  t
+
+Model saved in file: Ep_1/model-2500
+Iteration #3000
+Batch loss: 169.42947387695312
+Input:
+	 ây rất đẹp, rất nên thơ nhưng rõ ràng nó không biết chỗ nó đang ở thuộc về xứ nào. Mà nếu không biết
+Targets:
+	 y rất đẹp, rất nên thơ nhưng rõ ràng nó không biết chỗ nó đang ở thuộc về xứ nào. Mà nếu không biết 
+Predictions:
+	 y nat tưn  nồt tgn thầitgư g na cang ngichông ciết chi tg cãng n chầốc nà tucthy  
+àytgu thông ciết 
+
+Model saved in file: Ep_1/model-3000
+Iteration #3500
+Batch loss: 163.94403076171875
+Input:
+	 Kăply thốt thành lời những lo lắng trong đầu. - Nếu trên đồi đúng là đang trú ẩn một mụ phù thủy thì
+Targets:
+	 ăply thốt thành lời những lo lắng trong đầu. - Nếu trên đồi đúng là đang trú ẩn một mụ phù thủy thì 
+Predictions:
+	 ăply nhầi nhầnh tài nhưng nà tàng nhong tưu  
+ Tóu thưn tii nưng tà tếng thontn nột cộithả thủy thầ 
+
+Model saved in file: Ep_1/model-3500
+Iteration #4000
+Batch loss: 161.39100646972656
+Input:
+	 g ngần ngừ, hai đứa hồi hộp lần mò vào bên trong, thấp thỏm vượt qua những con ngựa bằng đồng đen to
+Targets:
+	  ngần ngừ, hai đứa hồi hộp lần mò vào bên trong, thấp thỏm vượt qua những con ngựa bằng đồng đen to 
+Predictions:
+	  thưn nhhn cai tưa nai tat tàn nộ cà  can trong  chầy thầi tàan nuaychưng chn thưa nang cưig tưn nrà
+
+Model saved in file: Ep_1/model-4000
+Iteration #4500
+Batch loss: 160.6954345703125
+Input:
+	 xẹt dọc như xoi thủng các lớp cỏ. Nhưng ngoài những đoạn gậy sừng hươu của Tam phù thủy Bạch kỳ lân 
+Targets:
+	 ẹt dọc như xoi thủng các lớp cỏ. Nhưng ngoài những đoạn gậy sừng hươu của Tam phù thủy Bạch kỳ lân n
+Predictions:
+	 ut cưn như tu  chầ g lhchcàp nh  
+óưng chhài chưng cónn ciy nang ciớn lha tam chả thủy đach kỳ làn n
+
+Model saved in file: Ep_1/model-4500
+Iteration #5000
+Batch loss: 150.43698120117188
+Input:
+	 hấy ngay cả Păng Ting cũng thét lên kinh hoàng: 
+- Chết tôi rồi! 
+Bọn trẻ chưa kịp hiểu chuyện gì, c
+Targets:
+	 ấy ngay cả Păng Ting cũng thét lên kinh hoàng: 
+- Chết tôi rồi! 
+Bọn trẻ chưa kịp hiểu chuyện gì, cá
+Predictions:
+	  y thhy ch tăng Ting thng chất càn thnh naàng  
+- Thẳt chi nai  --ọn trẻ nhua thp taệu thuyện nì  nh
+
+Model saved in file: Ep_1/model-5000
+Iteration #5500
+Batch loss: 161.14474487304688
+Input:
+	 iọng bắt đầu xẵng đến mức không thể coi là tự nhiên với một cô bé xưa nay vẫn rất dịu dàng: 
+- Không
+Targets:
+	 ọng bắt đầu xẵng đến mức không thể coi là tự nhiên với một cô bé xưa nay vẫn rất dịu dàng: 
+- Không.
+Predictions:
+	  ng nat niu tung cin cộc chông chấ nán nà th thiên nài cột cánci toớ thy càn cồt tư  cưng  
+- Thông 
+
+Model saved in file: Ep_1/model-5500
+Iteration #6000
+Batch loss: 158.1099853515625
+Input:
+	 y lớp nọ chẳng có gì khác biệt, mặc dù Nguyên công nhận thầy Hailixiro là một giáo sư dễ chịu quá xá
+Targets:
+	  lớp nọ chẳng có gì khác biệt, mặc dù Nguyên công nhận thầy Hailixiro là một giáo sư dễ chịu quá xá 
+Predictions:
+	  tàp Cà chỉng tó tì thôc niết  nặt nù tguyên vhng ngưn nhấy Haifixiro tà tột ciọo ta Kư hhu  nua hac
+
+Model saved in file: Ep_1/model-6000
+Iteration #6500
+Batch loss: 151.38580322265625
+Input:
+	 ông có mong muốn nào hơn là làm sao cho thằng này biến thành con cóc quách cho rồi. - Mày thú nhận đ
+Targets:
+	 ng có mong muốn nào hơn là làm sao cho thằng này biến thành con cóc quách cho rồi. - Mày thú nhận đi
+Predictions:
+	 ng ch tộn  nộốn nhy đan nà cà  gao chỉ thấng nhy caết crấnh thn nh  guaih tủi tai  
+ Cày chấcnhưn rế
+
+Model saved in file: Ep_1/model-6500
+Iteration #7000
+Batch loss: 143.68145751953125
+Input:
+	 uay sang Kăply: 
+- Này, K’Brêt. Có phải tính từ bữa nay, bạn thiệt sự chỉ còn sống có ba ngày nữa kh
+Targets:
+	 ay sang Kăply: 
+- Này, K’Brêt. Có phải tính từ bữa nay, bạn thiệt sự chỉ còn sống có ba ngày nữa khô
+Predictions:
+	    tang K’ply  
+- Thy  căTrăt  
+h thải thnh tr têa nhy  can thấệt ta thu cón tống nh ti cghy đha nhô
+
+Model saved in file: Ep_1/model-7000
+Iteration #7500
+Batch loss: 134.56666564941406
+Input:
+	 y, tới giờ đi học chỉ có Nguyên và nó kéo nhau ra khỏi tòa lâu đài (Êmê, K’Tub và Suku không đi cùng
+Targets:
+	 , tới giờ đi học chỉ có Nguyên và nó kéo nhau ra khỏi tòa lâu đài (Êmê, K’Tub và Suku không đi cùng 
+Predictions:
+	   chi niọ tâ tọc thỗ có tguyên và Kó đho thưu na thôi th  tàu đài Kcmê  t’Tub đà Kuku đhông tư thng 
+
+Model saved in file: Ep_1/model-7500
+Iteration #8000
+Batch loss: 139.58592224121094
+Input:
+	 y kêu thằng bạn mày ra đây đi. Tụi tao sẽ dẫn hai đứa mày về nhà tụi tao chơi. Kăply há hốc mồm như 
+Targets:
+	  kêu thằng bạn mày ra đây đi. Tụi tao sẽ dẫn hai đứa mày về nhà tụi tao chơi. Kăply há hốc mồm như a
+Predictions:
+	  nhu lhìng nạn nì  la tâu ló  
+hi nao cẽ cưn cai cứa nìy là cóư thi nao đhẳi  
+ăply ci hac mi  thư t
+
+Model saved in file: Ep_1/model-8000
+Iteration #8500
+Batch loss: 146.7279052734375
+Input:
+	 răk chính hiệu hiện đang lang thang đâu đó ở làng Ke. Còn thằng K’Brăk bây giờ chẳng liên quan gì đế
+Targets:
+	 ăk chính hiệu hiện đang lang thang đâu đó ở làng Ke. Còn thằng K’Brăk bây giờ chẳng liên quan gì đến
+Predictions:
+	 am nhỉnh tiện taện nóng càng lranh tầy có c đàmg Kă  
+hn chàng n’Brăk vày giờ thung tẽền tuan ti đón
+
+Model saved in file: Ep_1/model-8500
+Iteration #9000
+Batch loss: 136.5264892578125
+Input:
+	 ku không đi cùng tụi nó đến trường như ba ngày đầu nữa) và thường bao giờ nó cũng lề mề đến mức Nguy
+Targets:
+	 u không đi cùng tụi nó đến trường như ba ngày đầu nữa) và thường bao giờ nó cũng lề mề đến mức Nguyê
+Predictions:
+	 h ching tầ thng thi nó cãn mhêớng Đhư ta tgưy nưu tga  là thằờng may giờ tà chng kà độ lin mức cguyê
+
+Model saved in file: Ep_1/model-9000
+Iteration #9500
+Batch loss: 137.4210205078125
+Input:
+	 ng đầy quyết tâm: 
+- Ta đã sẵn sàng tất cả rồi, các con à. Tám ngày thì tám ngày, nếu tan xác thì ta
+Targets:
+	 g đầy quyết tâm: 
+- Ta đã sẵn sàng tất cả rồi, các con à. Tám ngày thì tám ngày, nếu tan xác thì ta 
+Predictions:
+	 g tưu tuaết lhm  
+- Thokã tẽn sàng thm củ lai  nhc ton t. 
+hi mhưy đhì tho nhhy  tóu kho toc lhì nhy
+
+Model saved in file: Ep_1/model-9500
+Iteration #10000
+Batch loss: 135.67149353027344
+Input:
+	 n và buông tay Nguyên nhảy lùi ra sau. 
+Cũng như Kăply, K’Tub đứng há hốc miệng, không thốt được một
+Targets:
+	  và buông tay Nguyên nhảy lùi ra sau. 
+Cũng như Kăply, K’Tub đứng há hốc miệng, không thốt được một 
+Predictions:
+	 gnà Kọồng thy lguyên vhưy nàn tồ cau  
+-hng lhư t’ply  KăTub đãng ta hoc miệng  chông chểt hược tột 
+
+Model saved in file: Ep_1/model-10000
+Iteration #10500
+Batch loss: 145.5898895263672
+Input:
+	 u ngựa có miếu thờ thần Tam giáp, người có công thành lập làng. Bụng ngựa là chợ Ke. Khu dân cư trải
+Targets:
+	  ngựa có miếu thờ thần Tam giáp, người có công thành lập làng. Bụng ngựa là chợ Ke. Khu dân cư trải 
+Predictions:
+	  chưa nh tộện thầ rhần chm piờo  thười nh thng chấnh tờp tê g  
+ọng ngưa nà nhupc’  
+ăôncàn thờthê  
+
+Model saved in file: Ep_1/model-10500
+Iteration #11000
+Batch loss: 138.09938049316406
+Input:
+	 à mất đứt 20.000 năpken vào tay London thông thái này rồi. 
+Mớ xương xẩu của bà Homhem bật tung lên 
+Targets:
+	  mất đứt 20.000 năpken vào tay London thông thái này rồi. 
+Mớ xương xẩu của bà Homhem bật tung lên k
+Predictions:
+	  Kột tứa n .000 năpken cà  mai mongon chàig thấi đhy nai  
+-ặituang cuy tủa tạ Êắmhem nạt thốg tên n
+
+Model saved in file: Ep_1/model-11000
+Iteration #11500
+Batch loss: 129.63616943359375
+Input:
+	 - Nếu thuê tụi anh ngay từ bây giờ, bọn em không có tiền trả đâu! 
+Masari khẽ lướt mắt qua đám trẻ t
+Targets:
+	  Nếu thuê tụi anh ngay từ bây giờ, bọn em không có tiền trả đâu! 
+Masari khẽ lướt mắt qua đám trẻ tr
+Predictions:
+	  Thu thầậ thi nnh đóưy tr têy giờ  nọn tm nhông nó chnn thư liy  --ặsari nhô cờợt tắt nua nâm nrẻ lh
+
+Model saved in file: Ep_1/model-11500
+Iteration #12000
+Batch loss: 136.84812927246094
+Input:
+	 g lâu đài, có nguyên đội tuần tiểu bảo vệ chung quanh, thế mà vẫn không thoát khỏi tai họa. Năm kia,
+Targets:
+	  lâu đài, có nguyên đội tuần tiểu bảo vệ chung quanh, thế mà vẫn không thoát khỏi tai họa. Năm kia, 
+Predictions:
+	  càu đài  nh tghy n tãt niần thếu tọo và choyg tuanh  chầ nà tàn chông thểát thôi tay nac  
+óm nha  
+
+Model saved in file: Ep_1/model-12000
+Iteration #12500
+Batch loss: 131.06744384765625
+Input:
+	 ăn nhà của Đại tiên ông Mackeno nằm gần như ngay trên đỉnh đồi, sát rạt tòa lâu đài K’Rahlan. Bọn tr
+Targets:
+	 n nhà của Đại tiên ông Mackeno nằm gần như ngay trên đỉnh đồi, sát rạt tòa lâu đài K’Rahlan. Bọn trẻ
+Predictions:
+	 p thà tha tại tiên ông Packeno chm cin như tghy cron đầnh đồi  nựt tat nr  lâu đài K’Rahlan  
+ọn trẻ
+
+Model saved in file: Ep_1/model-12500
+Iteration #13000
+Batch loss: 129.18258666992188
+Input:
+	 u ríu bước đến chỗ cánh cửa hé. Nguyên rụt rè đẩy cửa, mừng rơn khi không có một tiếng động nào phát
+Targets:
+	  ríu bước đến chỗ cánh cửa hé. Nguyên rụt rè đẩy cửa, mừng rơn khi không có một tiếng động nào phát 
+Predictions:
+	  tồt tằớc lón mhi nhih tha nat 
+óuyên nồt ra liy tha  ning bai nhi nhông nó tột chếng cáng lho chát 
+
+Model saved in file: Ep_1/model-13000
+Iteration #13500
+Batch loss: 124.06755828857422
+Input:
+	  tượng rồi ngước lên dòm Nguyên, rồi lại nhíu mày nhìn xuống pho tượng, tặc tặc lưỡi: 
+- Rõ ràng là 
+Targets:
+	 tượng rồi ngước lên dòm Nguyên, rồi lại nhíu mày nhìn xuống pho tượng, tặc tặc lưỡi: 
+- Rõ ràng là a
+Predictions:
+	 thởng cai cóhờc mạn nư  rguyên  nồi nại ngìu mày lhưn tuống chò tượng  chc lưc lưỡi  
+- Tồ ràng là t
+
+Model saved in file: Ep_1/model-13500
+Iteration #14000
+Batch loss: 132.02175903320312
+Input:
+	 ọc, tiếp tục gầm gừ. - Thứ miệng mồm hôi hám như mày cũng chẳng sống lâu đâu. Mày sắp đi theo thằng 
+Targets:
+	 c, tiếp tục gầm gừ. - Thứ miệng mồm hôi hám như mày cũng chẳng sống lâu đâu. Mày sắp đi theo thằng K
+Predictions:
+	 n  nhến tục tin ti  
+ Trằ tìệng tà  nỏm cỏi như tộy lhng chẳng tợng lâu đàu  
+ộy cẽp sư cheo thằng n
+
+Model saved in file: Ep_1/model-14000
+Iteration #14500
+Batch loss: 131.17355346679688
+Input:
+	 áng lóng lánh như lân tinh, chả rõ viết bằng thứ mực gì. 
+- Ôi con số gì thế! - Êmê sửng sốt kêu lên
+Targets:
+	 ng lóng lánh như lân tinh, chả rõ viết bằng thứ mực gì. 
+- Ôi con số gì thế! - Êmê sửng sốt kêu lên.
+Predictions:
+	 ih nà g làth chư tàu trnh  chỉmnồ ràệc đằng caằ gộc tì  
+- Cn lhn nố 2i hhì  - Kmê nẽng sốt rhu lên 
+
+Model saved in file: Ep_1/model-14500
+Iteration #15000
+Batch loss: 127.16283416748047
+Input:
+	  thù của giáo chủ Ama Êban thực ra là ai? 
+Bọn trẻ im lặng nơm nớp nhìn bà, thấy cây quạt trên tay b
+Targets:
+	 thù của giáo chủ Ama Êban thực ra là ai? 
+Bọn trẻ im lặng nơm nớp nhìn bà, thấy cây quạt trên tay bà
+Predictions:
+	 thầ tủa niáo chủ Ama Êban đrìc ra cà ci  
+-ọn trẻ lm đâng nhi nàp chìn tạ  chầy mou suát crưn đay mạ
+
+Model saved in file: Ep_1/model-15000
+Iteration #15500
+Batch loss: 134.28970336914062
+Input:
+	  ăn nói bạt mạng như Kan Tô. Nhưng những lời thủ thỉ của nó dộng đều đều vô tai Nguyên và Kăply suốt
+Targets:
+	 ăn nói bạt mạng như Kan Tô. Nhưng những lời thủ thỉ của nó dộng đều đều vô tai Nguyên và Kăply suốt 
+Predictions:
+	 tn mhi vằn tộnh như tăr Tô  
+óưng nóững cời nhầ nhuntóa nó đưng tồu vểu đà moy nguyên và Kăply nunt 
+
+Model saved in file: Ep_1/model-15500
+Iteration #16000
+Batch loss: 131.40457153320312
+Input:
+	 ng rồi còn gì! 
+Những tiếng xì xào ghen tị nổi lên râm ran bên tai Kăply nhưng nó không chú ý lắm. L
+Targets:
+	 g rồi còn gì! 
+Những tiếng xì xào ghen tị nổi lên râm ran bên tai Kăply nhưng nó không chú ý lắm. Lú
+Predictions:
+	 g nồi đủn cì  
+-hưng ciếng nu náo tiêo trtnhi tàn tồu rồ grịn cri n’ply đgư g nó chông cóịnc nàm  
+ầ
+
+Model saved in file: Ep_1/model-16000
+Iteration #16500
+Batch loss: 117.60481262207031
+Input:
+	 hĩ. Đã thấy bức tranh đó nhiều lần, nhưng ngay cả Êmê và K’Tub cũng chưa bao giờ để ý đến chi tiết k
+Targets:
+	 ĩ. Đã thấy bức tranh đó nhiều lần, nhưng ngay cả Êmê và K’Tub cũng chưa bao giờ để ý đến chi tiết kh
+Predictions:
+	    
+ó nhôy càc tranh ni lhưều nần  nhưng nóay lả tmê và K’Tub đũng khẳa kio giờ ta t đến mhỗếnhết đh
+
+Model saved in file: Ep_1/model-16500
+Iteration #17000
+Batch loss: 124.85132598876953
+Input:
+	 hù thủy. Trước một trận mưa tiền, ba con hắc xà đồng loạt hoạt động với một vẻ rất chi là hào hứng. 
+Targets:
+	 ù thủy. Trước một trận mưa tiền, ba con hắc xà đồng loạt hoạt động với một vẻ rất chi là hào hứng. T
+Predictions:
+	   thủy  
+hoớc mặt chăn tắa nhến  cà nán nơn áà tư g tàạt taat cầng tài tột cò nat khi là mon hếng  
+
+
+Model saved in file: Ep_1/model-17000
+Iteration #17500
+Batch loss: 124.01548767089844
+Input:
+	 về kế hoạch của thầy. - Từ ngày bọn mình nổi hứng xông lên đây, đồi Phù Thủy đã không còn là khu vực
+Targets:
+	 ề kế hoạch của thầy. - Từ ngày bọn mình nổi hứng xông lên đây, đồi Phù Thủy đã không còn là khu vực 
+Predictions:
+	 à ch toàch của thầy  
+ Th nghy can hình cgi tọng tung làn tồy. cầi Phù Thủy đứ đhông cón cà chô vừc 
+
+Model saved in file: Ep_1/model-17500
+Iteration #18000
+Batch loss: 118.40985107421875
+Input:
+	 iền bối rối cúi đầu xuống. 
+- Phải trò không, Tam! - Thầy Haifai quát lên. 
+Tam lúc lắc đầu, vẫn khô
+Targets:
+	 ền bối rối cúi đầu xuống. 
+- Phải trò không, Tam! - Thầy Haifai quát lên. 
+Tam lúc lắc đầu, vẫn khôn
+Predictions:
+	  u cộn rối củi nầu nuống  
+- Thải chò chông  aam  - Khầy Haifai cuat tên  --rm pạc nắm đầu  vàn chôn
+
+Model saved in file: Ep_1/model-18000
+Iteration #18500
+Batch loss: 122.68675231933594
+Input:
+	 còn tha cuốc xẻng theo làm chi? 
+Nguyên đong đưa cây cuốc trên tay, giở giọng đại ca: 
+- Mày thiệt l
+Targets:
+	 òn tha cuốc xẻng theo làm chi? 
+Nguyên đong đưa cây cuốc trên tay, giở giọng đại ca: 
+- Mày thiệt là
+Predictions:
+	 hn crằ thối cung nreo tê  choế 
+-guyên nãág đượ thu shốn crưn đay  ciọ tiọng nai bao 
+- Tày chấệt là
+
+Model saved in file: Ep_1/model-18500
+Iteration #19000
+Batch loss: 119.53288269042969
+Input:
+	 khi cách đầu Baltalon một quãng, vệt đen xòe cánh ra, đột ngột dừng lại giữa không trung như thắng b
+Targets:
+	 hi cách đầu Baltalon một quãng, vệt đen xòe cánh ra, đột ngột dừng lại giữa không trung như thắng bằ
+Predictions:
+	 hô nhi  nâu caltalon đàt cuảng  nàt lin noa nhnh ta  kãn ngột nưng tại niữa nháng thong chư thếcg cằ
+
+Model saved in file: Ep_1/model-19000
+Iteration #19500
+Batch loss: 121.65249633789062
+Input:
+	  lại một hồi lâu (lần đầu tiên Nguyên và Kăply không thấy hàm răng lởm chởm của thầy bày ra ngoài), 
+Targets:
+	 lại một hồi lâu (lần đầu tiên Nguyên và Kăply không thấy hàm răng lởm chởm của thầy bày ra ngoài), n
+Predictions:
+	 cài cột cồi hớu đbạn nầu tiên tguyên và Kăply chông thểy mam răng tom châm cha Khầy Hịy la kgoài   n
+
+Model saved in file: Ep_1/model-19500
+Iteration #20000
+Batch loss: 122.20927429199219
+Input:
+	 K’Tub lại ôm lấy vai Kăply, lần này nó không lắc lắc nữa mà ôm cứng lấy, nước mắt nhỏ tong tong: 
+- 
+Targets:
+	 ’Tub lại ôm lấy vai Kăply, lần này nó không lắc lắc nữa mà ôm cứng lấy, nước mắt nhỏ tong tong: 
+- N
+Predictions:
+	 ’Tub lại nm cấy mìi tăply  nún này nó lhông càm đắc đha tộ tn thng lôy  nóớc mắt nhì nhàg lhég  
+- T
+
+Model saved in file: Ep_1/model-20000
+Iteration #20500
+Batch loss: 115.09123229980469
+Input:
+	 n, cười khì khì. - Anh Kan Tô chưa biến thành con chuột lột là may lắm rồi. K’Tub lại hấp háy mắt: 
+
+Targets:
+	 , cười khì khì. - Anh Kan Tô chưa biến thành con chuột lột là may lắm rồi. K’Tub lại hấp háy mắt: 
+-
+Predictions:
+	 g chời khi chô  - Tnh k’n Tô chẳa kaết mhành tán nhỉnt càp rimcộy mêm rồi. 
+ăTub đại nưp táy một  
+-
+
+Model saved in file: Ep_1/model-20500
+Iteration #21000
+Batch loss: 110.91590881347656
+Input:
+	 m một khúc, rồi lại lòi ra thêm một bàn chân nữa, và khi có đủ hai chân rồi thì cái hình thù trong b
+Targets:
+	  một khúc, rồi lại lòi ra thêm một bàn chân nữa, và khi có đủ hai chân rồi thì cái hình thù trong bụ
+Predictions:
+	  nột choc  nồi nại nà  ra từằm một tàn thin tha. nà thi nả ti tai cáin đai đhì thi cinh thù thong độ
+
+Model saved in file: Ep_1/model-21000
+Iteration #21500
+Batch loss: 120.28045654296875
+Input:
+	 rồi. Điều đó nhiều lúc đẩy Nguyên vào những tình huống rất khó xử, nhất là khi Êmê bộc lộ sự thân mậ
+Targets:
+	 ồi. Điều đó nhiều lúc đẩy Nguyên vào những tình huống rất khó xử, nhất là khi Êmê bộc lộ sự thân mật
+Predictions:
+	 ai  
+óều đó kóưều lúc nóy cguyên và  lhững cinh cỏống cồt khocca  nhưt là chô nmê va  lạ ma chận cật
+
+Model saved in file: Ep_1/model-21500
+Iteration #22000
+Batch loss: 112.75813293457031
+Input:
+	 ngay đi không, Amara! 
+Trước cơn thịnh nộ của thầy Haifai, Amara hoảng hồn ngồi im, nhưng trông cái 
+Targets:
+	 gay đi không, Amara! 
+Trước cơn thịnh nộ của thầy Haifai, Amara hoảng hồn ngồi im, nhưng trông cái c
+Predictions:
+	 g y cư thông  Kmara  -Nroớc mhn ghịnh nhicủa thầy Haifai, nmara koang han chai cm  nóưng nhông thi t
+
+Model saved in file: Ep_1/model-22000
+Iteration #22500
+Batch loss: 115.03468322753906
+Input:
+	  Kăply đỏ rần tới mang tai. 
+- Có chuyện gì thế, K’Brêt? 
+Tiếng nhỏ Mua sửng sốt, chắc nó không hiểu
+Targets:
+	 Kăply đỏ rần tới mang tai. 
+- Có chuyện gì thế, K’Brêt? 
+Tiếng nhỏ Mua sửng sốt, chắc nó không hiểu 
+Predictions:
+	 t’ply ca nấn nhi mộng mai  
+- Ch thuyện gì đhế  K’Brêt! 
+Krếng tóư nua náng sốt  nhỉc có đhông ciểu 
+
+Model saved in file: Ep_1/model-22500
+Iteration #23000
+Batch loss: 115.84050750732422
+Input:
+	 g Chừng. Mà sự kiện đó xảy ra cách đây đã mấy trăm năm rồi. K’Tub biết rõ điều đó nên sau khi tuyên 
+Targets:
+	  Chừng. Mà sự kiện đó xảy ra cách đây đã mấy trăm năm rồi. K’Tub biết rõ điều đó nên sau khi tuyên b
+Predictions:
+	  thing  
+ặ vự thện tó lảy ra thih tây mể nuy trăm năm nồi. 
+ăBub ciết tồ liều đó thn nau thi thyện b
+
+Model saved in file: Ep_1/model-23000
+Iteration #23500
+Batch loss: 110.18571472167969
+Input:
+	  Êmê vươn thẳng người, giơ tay phải ra phía trước, mặt mày nghiêm trọng như sắp đánh nhau với một co
+Targets:
+	 Êmê vươn thẳng người, giơ tay phải ra phía trước, mặt mày nghiêm trọng như sắp đánh nhau với một con
+Predictions:
+	 tmê tàợn thấng tgười  tiọ tay lhùi na thía trước  nặt mày nghiêm trọng lhư tắp sếnh thau với tột cán
+
+Model saved in file: Ep_1/model-23500
+Iteration #24000
+Batch loss: 113.31025695800781
+Input:
+	 chút nữa! - Ông K’Tul bảo. 
+Kăply cất cao giọng: 
+- Bay lên! 
+Nhưng cọng lông chim vẫn nhất quyết ù 
+Targets:
+	 hút nữa! - Ông K’Tul bảo. 
+Kăply cất cao giọng: 
+- Bay lên! 
+Nhưng cọng lông chim vẫn nhất quyết ù l
+Predictions:
+	 hut nữa  - Kng K’Tul nuo  
+-ăply cht gáo ciờng  
+- Ta  lên! 
+Thưng thng lông chim càn rhưt cuaết đ c
+
+Model saved in file: Ep_1/model-24000
+Iteration #24500
+Batch loss: 110.94975280761719
+Input:
+	 ữ đền, anh K’Brăk tao chắc đã trở thành bộ xương khô quá hà. 
+- Yên tâm đi, K’Tub... - Păng Ting dịu
+Targets:
+	  đền, anh K’Brăk tao chắc đã trở thành bộ xương khô quá hà. 
+- Yên tâm đi, K’Tub... - Păng Ting dịu 
+Predictions:
+	 ntiu  nnh K’Brăk vho lhỉc lâ brở lhành ca muơng đhônluy càn 
+- Cên tâm đi, K’Tub!.. - Kăng Ting nịu 
+
+Model saved in file: Ep_1/model-24500
+Iteration #25000
+Batch loss: 109.90586853027344
+Input:
+	 anh da trời, nhưng mặt mày bọn này trắng trẻo một cách khác thường (một đứa nhóc làng Ke có nước gia
+Targets:
+	 nh da trời, nhưng mặt mày bọn này trắng trẻo một cách khác thường (một đứa nhóc làng Ke có nước gia 
+Predictions:
+	  g tưnrroi  nhưng tut mày tin mgy thông trẻo nột cách khoc thàờng Đcắt cứa nhóc nà g Ke có mgớc mhữ 
+
+Model saved in file: Ep_1/model-25000
+Iteration #25500
+Batch loss: 109.81024169921875
+Input:
+	 òn tệ hơn, không thốt được tiếng nào. Nhìn cái quai hàm cứng như gỗ của nó có thể thấy nếu trước đây
+Targets:
+	 n tệ hơn, không thốt được tiếng nào. Nhìn cái quai hàm cứng như gỗ của nó có thể thấy nếu trước đây 
+Predictions:
+	 n bh hơn  nhông bhểt được mhếng cóo  Nhưn thi cuái hàm rủng lhư ti của tó đũ thể thấy nhu kròớc đây 
+
+Model saved in file: Ep_1/model-25500
+Iteration #26000
+Batch loss: 105.68315887451172
+Input:
+	  với nhau kiểu gì thấy lạ quá. 
+- Phải trả tiền công cho Păng Ting sao, K’Tub! - Nguyên ngơ ngác hỏi
+Targets:
+	 với nhau kiểu gì thấy lạ quá. 
+- Phải trả tiền công cho Păng Ting sao, K’Tub! - Nguyên ngơ ngác hỏi.
+Predictions:
+	 tài nhữu khểu nì nhìy cà huá  
+- Chải crò thến thng nho Kăng Ting vau  K’Tub  - Nguyên nhh ngác nỏi 
+
+Model saved in file: Ep_1/model-26000
+Iteration #26500
+Batch loss: 104.46432495117188
+Input:
+	 m chết mình, nhất là khi nó vừa rón rén ngồi vào chỗ đã nghe thấy tiếng thằng Nguyên cự nự: 
+- Thằng
+Targets:
+	  chết mình, nhất là khi nó vừa rón rén ngồi vào chỗ đã nghe thấy tiếng thằng Nguyên cự nự: 
+- Thằng 
+Predictions:
+	  thít cình  nóữt là chô nh càa nồn rén ngồi cớo thỗ nó đhhe thấy thếng nhấng Kguyên nh nh  
+- Thếng 
+
+Model saved in file: Ep_1/model-26500
+Iteration #27000
+Batch loss: 95.37324523925781
+Input:
+	 Păng Ting! 
+Phải một lúc lâu sau khi ba tên Hắc tinh tinh bỏ đi, bọn trẻ mới hoàn hồn. Nguyên ngoảnh
+Targets:
+	 ăng Ting! 
+Phải một lúc lâu sau khi ba tên Hắc tinh tinh bỏ đi, bọn trẻ mới hoàn hồn. Nguyên ngoảnh 
+Predictions:
+	 ăng Ting  
+Nhải tột lúc lâu đắu chi tiothn lắc tinh tinh vị liề cọn trẻ tới điản tồn  Nóuyên nhhảnh 
+
+Model saved in file: Ep_1/model-27000
+Iteration #27500
+Batch loss: 102.52902221679688
+Input:
+	 Lũ khốn bảo ta định lấy mạng thằng nhóc nhà K’Rahlan. 
+Câu cuối cùng, Baltalon gần như rít lên: 
+- T
+Targets:
+	 ũ khốn bảo ta định lấy mạng thằng nhóc nhà K’Rahlan. 
+Câu cuối cùng, Baltalon gần như rít lên: 
+- Ta
+Predictions:
+	 onLhôn kịo va cánh tày mìng nhầng Khóc áhà K’Rahlan  
+-áu nhối cùng  Baltalon cin như cat lên  
+- Th
+
+Model saved in file: Ep_1/model-27500
+Iteration #28000
+Batch loss: 101.98213195800781
+Input:
+	 ả? Ở đâu kìa? 
+Êmê lắc tay Nguyên mạnh hơn, như cố đánh thức ký ức của Nguyên: 
+- Anh cố nhớ lại đi!
+Targets:
+	 ? Ở đâu kìa? 
+Êmê lắc tay Nguyên mạnh hơn, như cố đánh thức ký ức của Nguyên: 
+- Anh cố nhớ lại đi! 
+Predictions:
+	 i 
+ đây rha? 
+Tmê cạc đay rguyên vành nơn  chưnth tủnh thức ti tc của tguyên  
+- Tnh Kh thớ đại Bi  
+
+Model saved in file: Ep_1/model-28000
+Iteration #28500
+Batch loss: 110.015869140625
+Input:
+	 ng nhắm nghiền mắt lại luôn. Đến khi nghe một cái “kình”, người đau nhói, nó bất thần quay ngang, Kă
+Targets:
+	 g nhắm nghiền mắt lại luôn. Đến khi nghe một cái “kình”, người đau nhói, nó bất thần quay ngang, Kăp
+Predictions:
+	 g thưc tghiền cắt lại lấôn  
+ến khi nhhe tàt cái rciah   thười rin đhưc, nh vit ghần cua  vhưng  tăp
+
+Model saved in file: Ep_1/model-28500
+Iteration #29000
+Batch loss: 102.92713928222656
+Input:
+	 ? Chủ nhân của pho tượng là ai, em nói đi! 
+Suku vẻ như không muốn nói, nó thở hắt ra: 
+- Đây là pho
+Targets:
+	  Chủ nhân của pho tượng là ai, em nói đi! 
+Suku vẻ như không muốn nói, nó thở hắt ra: 
+- Đây là pho 
+Predictions:
+	  
+hắ nhân nủa thá tượng cà ti  nm cgi cưề CSuku cừ như không tuốn nhi  nó vhấ pắt ra, 
+- Mây là cho 
+
+Model saved in file: Ep_1/model-29000
+Iteration #29500
+Batch loss: 96.58943176269531
+Input:
+	 . 
+Kăply nhìn bạn với vẻ dò xét rồi ngập ngừng nói tiếp: 
+- Thằng K’Brăk và thằng K’Brêt làm thế là 
+Targets:
+	  
+Kăply nhìn bạn với vẻ dò xét rồi ngập ngừng nói tiếp: 
+- Thằng K’Brăk và thằng K’Brêt làm thế là d
+Predictions:
+	  
+-ăply ngìn tạn,bài pẻ đư hét cai cóưp ngừng lhi viếp: 
+- Theng n’Brăk và thằng K’Brêt cà  thằ nà c
+
+Model saved in file: Ep_1/model-29500
+Iteration #30000
+Batch loss: 99.73007202148438
+Input:
+	 úc càng lộ rõ vẻ thương cảm, cứ như thể con nhỏ đang nghĩ Kăply là một thứ cóc nhái gì đó và điều đó
+Targets:
+	 c càng lộ rõ vẻ thương cảm, cứ như thể con nhỏ đang nghĩ Kăply là một thứ cóc nhái gì đó và điều đó 
+Predictions:
+	 c nhng nú vồ tẻ mhấơng tảm  có như thể nhn ngỏ nếng tghĩ tăply là một chằ gh  kháy gì đó.tà ciều đó 
+
+Model saved in file: Ep_1/model-30000
+Iteration #30500
+Batch loss: 102.52047729492188
+Input:
+	  ngủ mơ: 
+- Thật không thể tin đuợc. 
+- Mày nhìn kìa! - Nguyên nhắc. - Hôm nay dư ra một chiếc ghế. 
+Targets:
+	 ngủ mơ: 
+- Thật không thể tin đuợc. 
+- Mày nhìn kìa! - Nguyên nhắc. - Hôm nay dư ra một chiếc ghế. 
+
+Predictions:
+	 chh má  
+- Nhết đhông phể nhn lưổc. 
+- Tày cgưn cha! - Kguyên nhím  - Tôm nay tạớvồ cột cáiếc ghế  N
+
+Model saved in file: Ep_1/model-30500
+Iteration #31000
+Batch loss: 104.64588165283203
+Input:
+	 g đến đây. Hắn nuôi một con chim cắt, đặt tên là Boumboum. Chính con Boumboum tha pho tượng bay đến 
+Targets:
+	  đến đây. Hắn nuôi một con chim cắt, đặt tên là Boumboum. Chính con Boumboum tha pho tượng bay đến đ
+Predictions:
+	  nần mây  
+ắn tgối nột cán chim cắt  môc trn là kalmboum  Nhonh tán soumboum cha chí tượng báy tần m
+
+Model saved in file: Ep_1/model-31000
+Iteration #31500
+Batch loss: 96.40023803710938
+Input:
+	 ở lấn tới. Nhưng lần tới đây thì Nguyên không ậm ừ nhát một nữa. Nó thình lình quắc mắt: 
+- Sao mày 
+Targets:
+	  lấn tới. Nhưng lần tới đây thì Nguyên không ậm ừ nhát một nữa. Nó thình lình quắc mắt: 
+- Sao mày b
+Predictions:
+	  tạy lhi  
+hưng càn nri tóy thì tguyên vhông bm v chưt đột tắa. 
+g bhấnh lình luan một  
+- Tao cà  v
+
+Model saved in file: Ep_1/model-31500
+Iteration #32000
+Batch loss: 101.00337982177734
+Input:
+	 xạ hương lẫn mùi lá húng tây. Lá bùa hình chữ nhật, bé bằng bàn tay, màu xỉn như đất, khi cầm trên t
+Targets:
+	 ạ hương lẫn mùi lá húng tây. Lá bùa hình chữ nhật, bé bằng bàn tay, màu xỉn như đất, khi cầm trên ta
+Predictions:
+	 uinoơng tàn Kặi lắ cong trm  -útlaa bảnh nhữ “hật  ma mịng gộn tay  ci  đan chư bat, chi chn trên ta
+
+Model saved in file: Ep_1/model-32000
+Iteration #32500
+Batch loss: 97.0198745727539
+Input:
+	 thang ở làng Ke, những ý nghĩ trong đầu Kăply lẩn thẩn quay lại xứ Lang Biang. Nó không khỏi lo lắng
+Targets:
+	 hang ở làng Ke, những ý nghĩ trong đầu Kăply lẩn thẩn quay lại xứ Lang Biang. Nó không khỏi lo lắng 
+Predictions:
+	  ấnh t càng Ke  nóững c nghĩ trong đầu Kăply vàm thùn muay mại tứ Lang Biang  
+ó lhông bhỏi tạạtắng 
+
+Model saved in file: Ep_1/model-32500
+Iteration #33000
+Batch loss: 107.24845123291016
+Input:
+	 t nó vào giữa khán đài nhộn nhịp huyên náo của sân vận động Thống Nhất có vẻ dễ coi hơn là nhìn thấy
+Targets:
+	  nó vào giữa khán đài nhộn nhịp huyên náo của sân vận động Thống Nhất có vẻ dễ coi hơn là nhìn thấy 
+Predictions:
+	  tg cà  tiữa bhôc nếo đgưn nhác nỏyên ngo tha tựn vận đang chầng thữt cả tẻ bễ chi lan đà chữn thấy 
+
+Model saved in file: Ep_1/model-33000
+Iteration #33500
+Batch loss: 103.26860046386719
+Input:
+	  xứ Lang Biang này. 
+Vừa nhác thấy Păng Ting từ xa, cả Nguyên và Kăply đột nhiên thấy dâng lên trong
+Targets:
+	 xứ Lang Biang này. 
+Vừa nhác thấy Păng Ting từ xa, cả Nguyên và Kăply đột nhiên thấy dâng lên trong 
+Predictions:
+	 cu Lang Biang đày  
+-ừa nóậc thấy măng Ting đrntư  tả bguyên và Kăply tãt nhiên thấy tạy  lên trong 
+
+Model saved in file: Ep_1/model-33500
+Iteration #34000
+Batch loss: 101.71340942382812
+Input:
+	 g. Trên vỉa hè người đi kẻ lại tấp nập, thiệt khác xa cảnh vắng vẻ ở tòa lâu đài K’Rahlan. Khác với 
+Targets:
+	 . Trên vỉa hè người đi kẻ lại tấp nập, thiệt khác xa cảnh vắng vẻ ở tòa lâu đài K’Rahlan. Khác với p
+Predictions:
+	   
+ừon đôa ta hhười đó ch lại nhp chp  mhấệt shôc la có h hing nẻ n tra lâu đài K’Rahlan, 
+hôc với t
+
+Model saved in file: Ep_1/model-34000
+Iteration #34500
+Batch loss: 94.7847900390625
+Input:
+	 y, cái cách mà ông K’Tul nhìn bà làm cho bà hiểu ngay là ông chẳng có biện pháp nào hữu hiệu để đối 
+Targets:
+	 , cái cách mà ông K’Tul nhìn bà làm cho bà hiểu ngay là ông chẳng có biện pháp nào hữu hiệu để đối p
+Predictions:
+	   chc chch ni mng K’Tul nhìn nạ Êạm chi bà Êoệu rgay là tng Khẳng có giến tháp sgo hơ  hìệu nó tếi p
+
+Model saved in file: Ep_1/model-34500
+Iteration #35000
+Batch loss: 92.98633575439453
+Input:
+	  tưởng mấy lần trò lén lút mò lên đồi, ta không biết hả? Lần này thì Nguyên khỏi phân trần luôn. Tại
+Targets:
+	 tưởng mấy lần trò lén lút mò lên đồi, ta không biết hả? Lần này thì Nguyên khỏi phân trần luôn. Tại 
+Predictions:
+	 thởng tìy tần như càn làt cộ hên đồi  ca chông taết tế  Nần này nhì Nguyên nhôi thản trần nàôn  
+hi 
+
+Model saved in file: Ep_1/model-35000
+Iteration #35500
+Batch loss: 97.29998779296875
+Input:
+	 bọn em chút nào hết vậy? 
+- Ờ, chỉ vậy đó! - K’Tub thản nhiên đáp. - Chỉ ăn mặc quái đản lắm. Em chẳ
+Targets:
+	 ọn em chút nào hết vậy? 
+- Ờ, chỉ vậy đó! - K’Tub thản nhiên đáp. - Chỉ ăn mặc quái đản lắm. Em chẳn
+Predictions:
+	 ạn tm cũứ  mào.tot,vậy  
+- Ờ, chị cậy mó  - K’Tub nhởn nhiên náp. - Chỉ cn mặc quái dản nàm. 
+m chỉn
+
+Model saved in file: Ep_1/model-35500
+Iteration #36000
+Batch loss: 99.42272186279297
+Input:
+	  muốn xé nát màng tai của mọi người. Nhưng đã không còn kịp nữa: Êmê đã hôn lên tay Nguyên. 
+Kăply g
+Targets:
+	 muốn xé nát màng tai của mọi người. Nhưng đã không còn kịp nữa: Êmê đã hôn lên tay Nguyên. 
+Kăply gi
+Predictions:
+	 tắốn go xht lắ g thi nủa tìi người. Nóưng ni lhông chn chp nha, 
+mê kã xom mên đhy rguyên. NÊăply ni
+
+Model saved in file: Ep_1/model-36000
+Iteration #36500
+Batch loss: 92.8592529296875
+Input:
+	 trong ba vị nên người đời chỉ biết có Nhị tiên. 
+K’Tub vẫn chưa hết ấm ức: 
+- Tam tiên pháp thuật si
+Targets:
+	 rong ba vị nên người đời chỉ biết có Nhị tiên. 
+K’Tub vẫn chưa hết ấm ức: 
+- Tam tiên pháp thuật siê
+Predictions:
+	 hong lộ ci ngn khhời nói thỗ cêết gh ngị tiên  
+K’Tub nàn còưa hết hm cc. 
+- Tam tiêu pháp thuật ciê
+
+Model saved in file: Ep_1/model-36500
+Iteration #37000
+Batch loss: 88.21441650390625
+Input:
+	 vô số kể, đủ mọi hình thù. Mấy chiếc mặt nạ trên tường thấy Nguyên và Kăply đưa mắt nhìn, liền nhe r
+Targets:
+	 ô số kể, đủ mọi hình thù. Mấy chiếc mặt nạ trên tường thấy Nguyên và Kăply đưa mắt nhìn, liền nhe ră
+Predictions:
+	 à cu ni  nã mọi hônh thù  
+ộy táiếc gặt nạ nrên mhờng triy tguyên và Kăply nãa tắt nhìn  niền nhì ră
+
+Model saved in file: Ep_1/model-37000
+Iteration #37500
+Batch loss: 91.4097671508789
+Input:
+	 - Nếu lên trường đúng là cách tốt nhất để thoát khỏi tai họa thì thầy N’Trang Long đã bảo bọn anh rồ
+Targets:
+	  Nếu lên trường đúng là cách tốt nhất để thoát khỏi tai họa thì thầy N’Trang Long đã bảo bọn anh rồi
+Predictions:
+	  Thu tàn tiêớng đưng là mhch tốt nhất vể mhoắt chỏi tay nọa thì thầy H’Trang Long cư nắo nạn Hnh rồi
+
+Model saved in file: Ep_1/model-37500
+Iteration #38000
+Batch loss: 88.17582702636719
+Input:
+	 Tub dường như chợt nhận ra mình la hơi lớn. Nó thò tay nắm lấy tay Nguyên, giọng áy náy: 
+- Anh đừng
+Targets:
+	 ub dường như chợt nhận ra mình la hơi lớn. Nó thò tay nắm lấy tay Nguyên, giọng áy náy: 
+- Anh đừng 
+Predictions:
+	 ub cướng như chưt nhận ra nình đà coi nòn. Nó nhấ tay cóm cấy lay lguyên, viọng no ngy  
+- Cnh King 
+
+Model saved in file: Ep_1/model-38000
+Iteration #38500
+Batch loss: 87.19364166259766
+Input:
+	  một đứa nhỏ lạ mặt bất ngờ nhô lên bên kia tảng đá, sát rạt ngay sau lưng họ, vẻ tươi tỉnh trên mặt
+Targets:
+	 một đứa nhỏ lạ mặt bất ngờ nhô lên bên kia tảng đá, sát rạt ngay sau lưng họ, vẻ tươi tỉnh trên mặt 
+Predictions:
+	 tàt cứa càó nạnmặt vằt thờ như lên nên cia ring đá  nốt mụt đhay tau lưng Nắc cẻ trơi tỉnh đrên đặt 
+
+Model saved in file: Ep_1/model-38500
+Iteration #39000
+Batch loss: 87.89628601074219
+Input:
+	 ật mọi chuyện với mẹ của Êmê hay không. 
+Bà Êmô thả người rơi phịch xuống chiếc ghế đầu bàn ăn, buôn
+Targets:
+	 t mọi chuyện với mẹ của Êmê hay không. 
+Bà Êmô thả người rơi phịch xuống chiếc ghế đầu bàn ăn, buông
+Predictions:
+	 t đìi náuyện với tộ tủa Bmê,vay không. 
+Bọ Êmô thì thười rai xhịch luống chiếc ghế nóu càn ăn  nỗộng
+
+Model saved in file: Ep_1/model-39000
+Iteration #39500
+Batch loss: 91.63047790527344
+Input:
+	 ợc nó. Nghĩ đến chuyện thầy Haifai bị vợ vặt trụi tóc, đã mấy lần Kăply ngứa miệng tính phun ra. Nó 
+Targets:
+	 c nó. Nghĩ đến chuyện thầy Haifai bị vợ vặt trụi tóc, đã mấy lần Kăply ngứa miệng tính phun ra. Nó đ
+Predictions:
+	 c th  
+gaĩ đến chuyện thầy cailai đị tớ vật tụái lrc  đã tuy tần năply cgha miệng thnh chun ra  
+ó l
+
+Model saved in file: Ep_1/model-39500
+Iteration #40000
+Batch loss: 87.84312438964844
+Input:
+	 gáy quá. Đã mấy lần nó tính nói huỵch toẹt ra toàn bộ sự thật về chuyện tráo người này, nhưng rồi ng
+Targets:
+	 áy quá. Đã mấy lần nó tính nói huỵch toẹt ra toàn bộ sự thật về chuyện tráo người này, nhưng rồi ngh
+Predictions:
+	  c tuạ. 
+â muy làn Kà chnh hói vuỵch toẹt ra cràn tà cố thất lớ phuyện thưo nhàời lày  thưng cồi nóh
+
+Model saved in file: Ep_1/model-40000
+Iteration #40500
+Batch loss: 92.07798767089844
+Input:
+	  nhau, giọng quả quyết: 
+- Nhưng anh chẳng việc quái gì phải lo. Tới hôm đó em sẽ tặng anh một siêu 
+Targets:
+	 nhau, giọng quả quyết: 
+- Nhưng anh chẳng việc quái gì phải lo. Tới hôm đó em sẽ tặng anh một siêu s
+Predictions:
+	 thưu  ciọng kuý tuyết  
+- Nhưng mnh chỉng tiệc quái gì phải tàm Tới rọm qó tm sẽ cặng anh mắt liêu p
+
+Model saved in file: Ep_1/model-40500
+Iteration #41000
+Batch loss: 91.15679931640625
+Input:
+	 900 năpken! - Păng Ting vọt miệng, mau mắn đến mức có thể thấy rõ nó muốn tống bọn Hắc tinh tinh đi 
+Targets:
+	 00 năpken! - Păng Ting vọt miệng, mau mắn đến mức có thể thấy rõ nó muốn tống bọn Hắc tinh tinh đi k
+Predictions:
+	    năpken  - Kăng Ting cut miệng  tiu mán nến mức ch chể thấy rõ mh nớốn ch g vọn mắc tinh tinh vã c
+
+Model saved in file: Ep_1/model-41000
+Iteration #41500
+Batch loss: 89.30793762207031
+Input:
+	  cọ vào nhau vang lên ngay sau tảng đá khiến bọn trẻ bất giác nghe ơn ớn toàn thân, những cẳng chân 
+Targets:
+	 cọ vào nhau vang lên ngay sau tảng đá khiến bọn trẻ bất giác nghe ơn ớn toàn thân, những cẳng chân h
+Predictions:
+	 th mào nhữu tàng lên tgay sau lang đá lhôến cọn trẻ tất giác nóhĩ ti Bn toàn thển  nhưng cong chân x
+
+Model saved in file: Ep_1/model-41500
+Iteration #42000
+Batch loss: 92.28114318847656
+Input:
+	  Không được! - Đam Pao đáp bằng giọng lo lắng. 
+- Cái gì không được! - Phản ứng của thằng Đam Pao là
+Targets:
+	 Không được! - Đam Pao đáp bằng giọng lo lắng. 
+- Cái gì không được! - Phản ứng của thằng Đam Pao làm
+Predictions:
+	 căông bứợc  - Sam Pao đãp bằng giọng nàạlắng  -- Cái gì thông được  - Phù  ứng tủa thằng Kam Pao tà 
+
+Model saved in file: Ep_1/model-42000
+Iteration #42500
+Batch loss: 87.71273803710938
+Input:
+	 , vẽ một đường vòng trên không trước khi rơi đánh bịch xuống cỏ, lăn lông lốc như một hòn đất. 
+Phải
+Targets:
+	  vẽ một đường vòng trên không trước khi rơi đánh bịch xuống cỏ, lăn lông lốc như một hòn đất. 
+Phải 
+Predictions:
+	  nà một sứờng đàng trên không truớc khi cai xưnh mạch ruống ch, cặn tông lốc thư cột còn đát. 
+Nhải 
+
+Model saved in file: Ep_1/model-42500
+Iteration #43000
+Batch loss: 86.6221923828125
+Input:
+	 hư Păng Ting khi nãy, trước khi Êmê kịp dứt câu, Suku đã biến mất đằng sau cánh cổng rào. Chắc nó sợ
+Targets:
+	 ư Păng Ting khi nãy, trước khi Êmê kịp dứt câu, Suku đã biến mất đằng sau cánh cổng rào. Chắc nó sợ 
+Predictions:
+	   văng Ting vhôếnhy, thước khi cmê nhp đát mâu, Kuku vã nịết mất.ting sau lhn  tửng nào. Đhíc nó cợ 
+
+Model saved in file: Ep_1/model-43000
+Iteration #43500
+Batch loss: 92.42161560058594
+Input:
+	 n Tô không buồn để ý đến những trò nhí nhố chung quanh. Đến gần phòng học có gắn tấm biển “LỚP CAO C
+Targets:
+	  Tô không buồn để ý đến những trò nhí nhố chung quanh. Đến gần phòng học có gắn tấm biển “LỚP CAO CẤ
+Predictions:
+	 gta liông tiồn nể ý đến vgững nrò kgậcthố nủung quanh  Nến kần thíng học lá gắn thm biển tLỚP CAO CẤ
+
+Model saved in file: Ep_1/model-43500
+Iteration #44000
+Batch loss: 85.14315795898438
+Input:
+	 phải ra phía trước, mặt mày nghiêm trọng như sắp đánh nhau với một con rồng chứ không phải đang chuẩ
+Targets:
+	 hải ra phía trước, mặt mày nghiêm trọng như sắp đánh nhau với một con rồng chứ không phải đang chuẩn
+Predictions:
+	  ải la khía trước  nặt tày hghiêm trọng như tắp sếnh nhau vài cột tán rồng kủố không phải tang chạẩn
+
+Model saved in file: Ep_1/model-44000
+Iteration #44500
+Batch loss: 90.97048950195312
+Input:
+	  hừ mũi. - Khi nãy mày cất hai cái tai đi đâu vậy hả, Kăply? Bộ mày không nghe ông K’Tul nói gì sao?
+Targets:
+	 hừ mũi. - Khi nãy mày cất hai cái tai đi đâu vậy hả, Kăply? Bộ mày không nghe ông K’Tul nói gì sao? 
+Predictions:
+	 ta mũi. - Đhi nãy tày cót đai tái tri nó lâu mậy hả? căply  
+ộ mày thông nghe tng K’Tul đhi gi nao? 
+
+Model saved in file: Ep_1/model-44500
+Iteration #45000
+Batch loss: 91.27188110351562
+Input:
+	 y gà mắc mưa, trong khi Tam và Bolobala thì giương cặp mắt ngơ ngác ra nhìn những đứa này. 
+- Chẳng 
+Targets:
+	  gà mắc mưa, trong khi Tam và Bolobala thì giương cặp mắt ngơ ngác ra nhìn những đứa này. 
+- Chẳng c
+Predictions:
+	  cinhàc cộa, grong khi Nam pà ôolobala mhì tiờơng mặp mắt hga ngác ha cgữn thang tứa này  
+- Thẳng l
+
+Model saved in file: Ep_1/model-45000
+Iteration #45500
+Batch loss: 87.67241668701172
+Input:
+	 mặt mày bọn này trắng trẻo một cách khác thường (một đứa nhóc làng Ke có nước gia trăng trắng thôi c
+Targets:
+	 ặt mày bọn này trắng trẻo một cách khác thường (một đứa nhóc làng Ke có nước gia trăng trắng thôi có
+Predictions:
+	  t tày hun mgy trông trẻo nột cáih thó  chường nmột đáa nhóc kà g Ke củ mhớc giưntrêng trắng trôi ch
+
+Model saved in file: Ep_1/model-45500
+Iteration #46000
+Batch loss: 86.10832214355469
+Input:
+	  thế Đam Pao? 
+Sau thoáng bất ngờ, K’Tub quay đầu ra sau, ngoác miệng hét ầm nhưng thằng Đam Pao tin
+Targets:
+	 thế Đam Pao? 
+Sau thoáng bất ngờ, K’Tub quay đầu ra sau, ngoác miệng hét ầm nhưng thằng Đam Pao tinh
+Predictions:
+	 thấ nạn Pao. 
+-uu khoáng mêt ngờ  c’Tub đuay sầu ta sau  hóạàc miệng hỏt vm như g thằng nam Pao tinh
+
+Model saved in file: Ep_1/model-46000
+Iteration #46500
+Batch loss: 86.93001556396484
+Input:
+	 ác anh chị không nên đi về phía đó. 
+K’Tub ngẩn người, chưa hiểu ý thằng Đam Pao nói thế là có ý gì 
+Targets:
+	 c anh chị không nên đi về phía đó. 
+K’Tub ngẩn người, chưa hiểu ý thằng Đam Pao nói thế là có ý gì t
+Predictions:
+	 i nih lhiuthông ngn ti hớ phía cế. 
+KăTub nhhn ngấời, lhia kiểu s thằng bam Pao vhi chế nà ch c đì t
+
+Model saved in file: Ep_1/model-46500
+Iteration #47000
+Batch loss: 84.66789245605469
+Input:
+	 đại nào đó. Những đứa khác cũng nín thở chờ Suku nói tiếp: 
+- Thủ lĩnh phe Hắc Ám năm 1308 là Bajara
+Targets:
+	 ại nào đó. Những đứa khác cũng nín thở chờ Suku nói tiếp: 
+- Thủ lĩnh phe Hắc Ám năm 1308 là Bajarak
+Predictions:
+	 ói lgy đó. 
+hững cứa nhác cóng chu thấ rhắ muku vhi tiếp  
+- Tôe lĩ h chá Hắc Ám cóm n608 làmBajarak
+
+Model saved in file: Ep_1/model-47000
+Iteration #47500
+Batch loss: 86.31258392333984
+Input:
+	 ìn ai. 
+Đầu Kăply càng cúi thấp hơn nữa khi lời trêu ghẹo của thằng Kan Tô vang lên như ngọn roi quấ
+Targets:
+	 n ai. 
+Đầu Kăply càng cúi thấp hơn nữa khi lời trêu ghẹo của thằng Kan Tô vang lên như ngọn roi quất
+Predictions:
+	 nhtn  
+-ầu óăply lhng lhi ghằp hơn nữa thô nii trêu ghéo của nhầng K’n Tô tang lên thư tgưn roi cuát
+
+Model saved in file: Ep_1/model-47500
+Iteration #48000
+Batch loss: 87.66531372070312
+Input:
+	  không buồn đi lang thang trên trần nhà nữa. Nó khép mắt lại, một dấu hiệu cho thấy nếu không phải b
+Targets:
+	 không buồn đi lang thang trên trần nhà nữa. Nó khép mắt lại, một dấu hiệu cho thấy nếu không phải bu
+Predictions:
+	 thông ciồn nể nang thang krên đrần nhà năa. 
+ó bhip mắt lại, nắt cãu hiệu đho thấy cóu thông chải kắ
+
+Model saved in file: Ep_1/model-48000
+Iteration #48500
+Batch loss: 93.59559631347656
+Input:
+	 ương 1: Thầy râu bạc
+
+Không biết tự bao giờ, người làng Ke gọi ngọn đồi đó là đồi Phù Thủy. Có lẽ cá
+Targets:
+	 ơng 1: Thầy râu bạc
+
+Không biết tự bao giờ, người làng Ke gọi ngọn đồi đó là đồi Phù Thủy. Có lẽ cái
+Predictions:
+	 nng m0 
+iầy Hồu tin 
+Không điết th nao giờ  Kóàời đàng Ke cii nhun đồi tó cà cồi Phù Thủy. 
+á lẽ toi
+
+Model saved in file: Ep_1/model-48500
+Iteration #49000
+Batch loss: 81.61013793945312
+Input:
+	 quái đản này, lại đúng vào lúc nó đang thập thò một cách khả nghi bên dưới. Nếu ổng thấy mình thì sa
+Targets:
+	 uái đản này, lại đúng vào lúc nó đang thập thò một cách khả nghi bên dưới. Nếu ổng thấy mình thì sao
+Predictions:
+	 uai nản này  nại nưng vào lúc nó cang nhất thò nột cách khô nghi nên dưới. Nếu sng thấy cình thì tao
+
+Model saved in file: Ep_1/model-49000
+Iteration #49500
+Batch loss: 87.85688018798828
+Input:
+	 có con mắt sau lưng hắng giọng một tiếng khiến Kăply hoảng hồn rụt tay lại. 
+Đồ đạc trong nhà thầy R
+Targets:
+	 ó con mắt sau lưng hắng giọng một tiếng khiến Kăply hoảng hồn rụt tay lại. 
+Đồ đạc trong nhà thầy Râ
+Predictions:
+	 h thi kắt nan lưng Nắng giọng:một tiếng rhiến năply mấàng hồn nột tay vại, 
+Kô cạc nrong chư thầy Râ
+
+Model saved in file: Ep_1/model-49500
+Iteration #50000
+Batch loss: 84.82781982421875
+Input:
+	 say sưa như muốn nói với vợ thầy Haifai rằng mặc dù môn Giải mộng không phải là môn thầy N’Trang Lon
+Targets:
+	 ay sưa như muốn nói với vợ thầy Haifai rằng mặc dù môn Giải mộng không phải là môn thầy N’Trang Long
+Predictions:
+	 ao nứờ naư vộốn kói tới Kẻ thầy Haifai đồng nặc áùnmộn Tiải mộng lhông chải là tộn nhầy R’Trang Long
+
+Model saved in file: Ep_1/model-50000
